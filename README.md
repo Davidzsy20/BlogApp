@@ -1,3 +1,3 @@
 # BlogApp
 
-A Personal blog app that have restful api functionality
+A Personal blog app that has restful api functionality.
